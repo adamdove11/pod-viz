@@ -1,6 +1,10 @@
 {
   "nodes": [
     {"id": "Myriel", "group": 1},
+    {"id": "Adam", "group": 1},
+    {"id": "Drew", "group": 1},
+    {"id": "Tulsi", "group": 1},
+    {"id": "Boyd", "group": 1},
    {"id": "Napoleon", "group": 2}
   ],
   "links": [
