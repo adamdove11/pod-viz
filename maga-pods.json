@@ -27,7 +27,7 @@
     {"source": "Boyd", "target": "Tulsi", "value": 10},
     {"source": "Boyd", "target": "Danielle", "value": 2},
 
-     {"source": "Danielle", "target": "Drew", "value": 10},
+    {"source": "Danielle", "target": "Drew", "value": 10},
     {"source": "Danielle", "target": "Adam", "value": 10},
     {"source": "Danielle", "target": "Boyd", "value": 2},
     {"source": "Danielle", "target": "Tulsi", "value": 10}
