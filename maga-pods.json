@@ -3,8 +3,8 @@
     {"id": "Drew", "group": 1},
     {"id": "Adam", "group": 1},
     {"id": "Tulsi", "group": 1},
-    {"id": "Boyd", "group": 2},
-    {"id": "Danielle", "group": 2}
+    {"id": "Boyd", "group": 10},
+    {"id": "Danielle", "group": 10}
   ],
   "links": [
     {"source": "Drew", "target": "Adam", "value": 2},
