@@ -1,15 +1,14 @@
 {
   "nodes": [
-    {"id": "Myriel", "group": 1},
-    {"id": "Adam", "group": 1},
     {"id": "Drew", "group": 1},
+    {"id": "Adam", "group": 1},
     {"id": "Tulsi", "group": 1},
-    {"id": "Boyd", "group": 1},
-   {"id": "Napoleon", "group": 2}
+    {"id": "Boyd", "group": 2},
+    {"id": "Danielle", "group": 2},\
   ],
   "links": [
-    {"source": "Myriel", "target": "Napoleon", "value": 5},
-    {"source": "Napoleon", "target": "Myriel", "value": 5}
+    {"source": "Drew", "target": "Adam", "value": 2},
+    {"source": "Adam", "target": "Drew", "value": 2}
     
   ]
 }
