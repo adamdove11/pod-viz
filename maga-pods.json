@@ -9,27 +9,27 @@
   "links": [
     {"source": "Drew", "target": "Adam", "value": 2},
     {"source": "Drew", "target": "Tulsi", "value": 2},
-    {"source": "Drew", "target": "Boyd", "value": 10},
-    {"source": "Drew", "target": "Danielle", "value": 10},
+    {"source": "Drew", "target": "Boyd", "value": 30},
+    {"source": "Drew", "target": "Danielle", "value": 30},
 
     {"source": "Adam", "target": "Drew", "value": 2},
     {"source": "Adam", "target": "Tulsi", "value": 2},
-    {"source": "Adam", "target": "Boyd", "value": 10},
-    {"source": "Adam", "target": "Danielle", "value": 10},
+    {"source": "Adam", "target": "Boyd", "value": 30},
+    {"source": "Adam", "target": "Danielle", "value": 30},
 
     {"source": "Tulsi", "target": "Drew", "value": 2},
     {"source": "Tulsi", "target": "Adam", "value": 2},
-    {"source": "Tulsi", "target": "Boyd", "value": 10},
-    {"source": "Tulsi", "target": "Danielle", "value": 10},
+    {"source": "Tulsi", "target": "Boyd", "value": 30},
+    {"source": "Tulsi", "target": "Danielle", "value": 30},
 
-    {"source": "Boyd", "target": "Drew", "value": 10},
-    {"source": "Boyd", "target": "Adam", "value": 10},
-    {"source": "Boyd", "target": "Tulsi", "value": 10},
+    {"source": "Boyd", "target": "Drew", "value": 30},
+    {"source": "Boyd", "target": "Adam", "value": 30},
+    {"source": "Boyd", "target": "Tulsi", "value": 30},
     {"source": "Boyd", "target": "Danielle", "value": 2},
 
-    {"source": "Danielle", "target": "Drew", "value": 10},
-    {"source": "Danielle", "target": "Adam", "value": 10},
+    {"source": "Danielle", "target": "Drew", "value": 30},
+    {"source": "Danielle", "target": "Adam", "value": 30},
     {"source": "Danielle", "target": "Boyd", "value": 2},
-    {"source": "Danielle", "target": "Tulsi", "value": 10}
+    {"source": "Danielle", "target": "Tulsi", "value": 30}
   ]
 }
