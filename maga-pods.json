@@ -10,38 +10,15 @@
   "links": [
     {"source": "Drew", "target": "Adam", "value": 0.9},
     {"source": "Drew", "target": "Tulsi", "value": 0.9},
-    {"source": "Drew", "target": "Boyd", "value": 0.1},
-    {"source": "Drew", "target": "Danielle", "value": 0.1},
-    {"source": "Drew", "target": "Htoo", "value": 0.1},
 
     {"source": "Adam", "target": "Drew", "value": 0.9},
     {"source": "Adam", "target": "Tulsi", "value": 0.9},
-    {"source": "Adam", "target": "Boyd", "value": 0.1},
-    {"source": "Adam", "target": "Danielle", "value": 0.1},
-    {"source": "Adam", "target": "Htoo", "value": 0.1},
 
     {"source": "Tulsi", "target": "Drew", "value": 0.9},
     {"source": "Tulsi", "target": "Adam", "value": 0.9},
-    {"source": "Tulsi", "target": "Boyd", "value": 0.1},
-    {"source": "Tulsi", "target": "Danielle", "value": 0.1},
-    {"source": "Tulsi", "target": "Htoo", "value": 0.1},
 
-    {"source": "Boyd", "target": "Drew", "value": 0.1},
-    {"source": "Boyd", "target": "Adam", "value": 0.1},
-    {"source": "Boyd", "target": "Tulsi", "value": 0.1},
     {"source": "Boyd", "target": "Danielle", "value": 0.9},
-    {"source": "Boyd", "target": "Htoo", "value": 0.1},
 
-    {"source": "Danielle", "target": "Drew", "value": 0.1},
-    {"source": "Danielle", "target": "Adam", "value": 0.1},
     {"source": "Danielle", "target": "Boyd", "value": 0.9},
-    {"source": "Danielle", "target": "Tulsi", "value": 0.1},
-    {"source": "Danielle", "target": "Htoo", "value": 0.1},
-
-    {"source": "Htoo", "target": "Drew", "value": 0.1},
-    {"source": "Htoo", "target": "Adam", "value": 0.1},
-    {"source": "Htoo", "target": "Boyd", "value": 0.1},
-    {"source": "Htoo", "target": "Tulsi", "value": 0.1},
-    {"source": "Htoo", "target": "Danielle", "value": 0.1}
   ]
 }
