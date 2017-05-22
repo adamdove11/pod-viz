@@ -1,24 +1,18 @@
 {
   "nodes": [
-    {"id": "Drew", "group": 1},
+    {"id": "Abby", "group": 1},
     {"id": "Adam", "group": 1},
-    {"id": "Tulsi", "group": 1},
-    {"id": "Boyd", "group": 2},
-    {"id": "Danielle", "group": 2},
-    {"id": "Htoo", "group": 3}
+    {"id": "Juancarlo", "group": 1},
+    {"id": "Abby", "group": 2},
+    {"id": "Juancarlo", "group": 2},
+    {"id": "Amanda", "group": 3},
+    {"id": "Melissa", "group": 3},
+    {"id": "Natalie", "group": 3},
+    {"id": "Ipsae", "group": 3},
+    {"id": "Hannah", "group": 3}
+
   ],
   "links": [
-    {"source": "Drew", "target": "Adam", "value": 0.9},
-    {"source": "Drew", "target": "Tulsi", "value": 0.9},
-
-    {"source": "Adam", "target": "Drew", "value": 0.9},
-    {"source": "Adam", "target": "Tulsi", "value": 0.9},
-
-    {"source": "Tulsi", "target": "Drew", "value": 0.9},
-    {"source": "Tulsi", "target": "Adam", "value": 0.9},
-
-    {"source": "Boyd", "target": "Danielle", "value": 0.9},
-
-    {"source": "Danielle", "target": "Boyd", "value": 0.9}
+ 
   ]
 }
